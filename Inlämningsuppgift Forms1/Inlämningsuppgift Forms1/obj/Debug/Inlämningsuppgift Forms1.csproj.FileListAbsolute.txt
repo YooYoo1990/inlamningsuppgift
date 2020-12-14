@@ -1,0 +1,10 @@
+C:\Users\allex\source\repos\Inlämningsuppgift Forms1\Inlämningsuppgift Forms1\bin\Debug\Inlämningsuppgift Forms1.exe.config
+C:\Users\allex\source\repos\Inlämningsuppgift Forms1\Inlämningsuppgift Forms1\bin\Debug\Inlämningsuppgift Forms1.exe
+C:\Users\allex\source\repos\Inlämningsuppgift Forms1\Inlämningsuppgift Forms1\bin\Debug\Inlämningsuppgift Forms1.pdb
+C:\Users\allex\source\repos\Inlämningsuppgift Forms1\Inlämningsuppgift Forms1\obj\Debug\Inlämningsuppgift Forms1.csprojAssemblyReference.cache
+C:\Users\allex\source\repos\Inlämningsuppgift Forms1\Inlämningsuppgift Forms1\obj\Debug\Inlämningsuppgift_Forms1.Form1.resources
+C:\Users\allex\source\repos\Inlämningsuppgift Forms1\Inlämningsuppgift Forms1\obj\Debug\Inlämningsuppgift_Forms1.Properties.Resources.resources
+C:\Users\allex\source\repos\Inlämningsuppgift Forms1\Inlämningsuppgift Forms1\obj\Debug\Inlämningsuppgift Forms1.csproj.GenerateResource.cache
+C:\Users\allex\source\repos\Inlämningsuppgift Forms1\Inlämningsuppgift Forms1\obj\Debug\Inlämningsuppgift Forms1.csproj.CoreCompileInputs.cache
+C:\Users\allex\source\repos\Inlämningsuppgift Forms1\Inlämningsuppgift Forms1\obj\Debug\Inlämningsuppgift Forms1.exe
+C:\Users\allex\source\repos\Inlämningsuppgift Forms1\Inlämningsuppgift Forms1\obj\Debug\Inlämningsuppgift Forms1.pdb
